@@ -1,1 +1,1 @@
-# First-trial
+# 自己在学习python的时候一些尝试
