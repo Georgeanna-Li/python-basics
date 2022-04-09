@@ -1,1 +1,4 @@
-# 自己在学习python的时候一些尝试
+# Random notes and experience 
+
+- 20 useful code snippets
+- pasic usage of pandas
